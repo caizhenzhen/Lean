@@ -1,3 +1,4 @@
+//快速排序
 #include <stdio.h>
 static int num = 0;
 void QuickSort(int array[], int low, int high);
@@ -7,7 +8,7 @@ int main()
   int i;
   int array[10] = {13,2,5,18,7,12,9,10,15,6};
   QuickSort(array,0,9);
-  for (i = 0;i <9 ;i++)
+  for (i = 0;i < 10 ;i++)
   printf("%d,",array[i]);
   printf("\n");
   printf("num:%d\n",num);
