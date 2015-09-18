@@ -12,7 +12,6 @@ int main()
     {
      flag = false;
      for(j = 9; j >= i;j--)
-     
        if(array[j]<array[j-1])
          {
            temp = array[j];
