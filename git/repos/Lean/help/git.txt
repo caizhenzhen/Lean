@@ -2,3 +2,8 @@
 1.git rm file
 2.git commit -m "remove"
 3.git push
+添加文件
+1.git add filename
+2.git commit -m "add"
+3.git push
+
