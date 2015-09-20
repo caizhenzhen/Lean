@@ -6,4 +6,6 @@
 1.git add filename
 2.git commit -m "add"
 3.git push
+Clone repo
+git clone https://github.com/caizhenzhen/Lean.git
 
